@@ -1,3 +1,4 @@
+# Step 1
 View source code -> view-source:https://92e552757489b387a55954f326541e78.ctf.hacker101.com/
 
 <!doctype html>
@@ -16,5 +17,7 @@ View source code -> view-source:https://92e552757489b387a55954f326541e78.ctf.hac
 
 
 background.png looks to be a file, so append to url
+
+# Step 2
 
 https://92e552757489b387a55954f326541e78.ctf.hacker101.com/background.png -> navigate and get flag
