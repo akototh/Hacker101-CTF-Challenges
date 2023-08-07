@@ -1,6 +1,7 @@
 # Step 1
 View source code -> view-source:https://92e552757489b387a55954f326541e78.ctf.hacker101.com/
 
+```
 <!doctype html>
 <html>
     <head>
@@ -14,7 +15,7 @@ View source code -> view-source:https://92e552757489b387a55954f326541e78.ctf.hac
         <p>Welcome to level 0.  Enjoy your stay.</p>
     </body>
 </html>
-
+```
 
 background.png looks to be a file, so append to url
 
