@@ -17,7 +17,7 @@ View source code -> view-source:https://92e552757489b387a55954f326541e78.ctf.hac
 </html>
 ```
 
-background.png looks to be a file, so append to url
+**background.png** looks to be a file, so append to url
 
 # Step 2
 
