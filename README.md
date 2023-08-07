@@ -28,6 +28,7 @@ Logging Hacker101's CTF Challenge writeups as I complete them.
 | Moderate   | [RTFM][24]                                        | Web          |           |
 | Moderate   | [Hackyholidays CTF][25]                           | Web          |           |
 | Moderate   | [Y2FuIHlvdSByZWNvbj8][26]                         | Web, Recon   |           |
+
 [1]: ./a_little_something_to_get_you_started
 [2]: ./micro-cms_v1
 [3]: ./micro-cms_v2
