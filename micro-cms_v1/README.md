@@ -4,7 +4,7 @@ https://ec980f8824c3c416b995aea996497976.ctf.hacker101.com/page/edit/6 -> flag
 # Flag 2
 create page and use XSS payload on title
 <script>alert("xss")</script> 
-# when going back home, get flag
+when going back home, get flag
 
 ![](./images/2.png)
 # Flag 3
