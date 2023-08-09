@@ -6,7 +6,7 @@ Inserting **<?php phpinfo()?>** as a comment and posting it gives us the first f
 ![](./images/3.png)
 ![](./images/4.png)
 # Flag 2
-Removing **.auth** from the url takes us to the comment aproval page, which contains the second flag.
+Removing **.auth** from the url takes us to the comment approval page, which contains the second flag.
 ![](./images/5.png)
 # Flag 3
 There should be an index page, and since the site uses PHP, the format should be ?/page=index.php.
@@ -16,7 +16,6 @@ Since a PHP oneliner worked to get the first flag, let's try to use another one 
 ![](./images/7.png)
 EDIT: the correct payload is ```<?php echo readfile("index.php") ?>```
 Let's navigate to **?page=admin.inc** and approve the comment
-![](./images/8.png)
 Navigate to **?page=http://localhost/index**, the **.php** format will append automatically.
 View the page's source, we'll find the flag
 ![](./images/9.png)
