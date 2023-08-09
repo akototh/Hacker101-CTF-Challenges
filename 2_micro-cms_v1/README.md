@@ -1,7 +1,8 @@
-# Cody's First Blog
+# Micro-CMS V1
 
 ## Flag 1
 https://ec980f8824c3c416b995aea996497976.ctf.hacker101.com/page/edit/6 -> flag
+
 ![](./images/1.png)
 ## Flag 2
 create page and use XSS payload on title
@@ -9,6 +10,7 @@ create page and use XSS payload on title
 when going back home, get flag
 
 ![](./images/2.png)
+
 ## Flag 3
 on page 2, edit -> https://ec980f8824c3c416b995aea996497976.ctf.hacker101.com/page/edit/2
 
