@@ -14,6 +14,8 @@ Navigating there gives us the following result, which is a different response to
 ![](./images/6.png)
 Since a PHP oneliner worked to get the first flag, let's try to use another one to output the actual file (php is interpreted so when pointing at it, it would execute rather than showing its contents)
 ![](./images/7.png)
+EDIT: the correct payload is <?php echo readfile("index.php") ?>
+-
 Let's navigate to **?page=admin.inc** and approve the comment
 ![](./images/8.png)
 Navigate to **?page=http://localhost/index**, the **.php** format will append automatically.
