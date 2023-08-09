@@ -8,27 +8,27 @@ Logging Hacker101's CTF Challenge writeups as I complete them.
 | Moderate   | [Micro-CMS v2][3]                                | Web          |           |
 | Hard       | [Encrypted Pastebin][4]                          | Web, Crypto  |           |
 | Moderate   | [Photo Gallery][5]                               | Web          |           |
-| Moderate   | [Cody's First Blog][6]                           | Web          |           |
+| Moderate   | [Cody's First Blog][6]                           | Web          | √         |
 | Easy       | [Postbook][7]                                    | Web          |           |
 | Moderate   | [Ticketastic: Demo Instance][8]                  | Web          |           |
 | Moderate   | [Ticketastic: Live Instance][9]                  | Web          |           |
-| Easy       | [Petshop Pro][10]                                 | Web          |           |
-| Hard       | [Model E1337 - Rolling Code Lock][11]             | Web, Math    |           |
-| Moderate   | [TempImage][12]                                   | Web          |           |
-| Easy       | [H1 Thermostat][13]                               | Android      |           |
-| Expert     | [Model E1337 V2 - Hardened Rolling Code Lock][14] | Math         |           |
-| Moderate   | [Intentional Exercise][15]                        | Android      |           |
-| Expert     | [Rend Asunder][16]                                | Native       |           |
-| Easy       | [BugDB v1][17]                                    | Web, GraphQL |           |
-| Easy       | [BugDB v2][18]                                    | Web, GraphQL |           |
-| Moderate   | [Oauthbreaker][19]                                | Android      |           |
-| Moderate   | [Mobile Webdev][20]                               | Android      |           |
-| Moderate   | [XSS Playground by zseano][21]                    | Web          |           |
-| Moderate   | [OSU CTF][22]                                     | Web          |           |
-| Moderate   | [Grayhatcon CTF][23]                              | Web          |           |
-| Moderate   | [RTFM][24]                                        | Web          |           |
-| Moderate   | [Hackyholidays CTF][25]                           | Web          |           |
-| Moderate   | [Y2FuIHlvdSByZWNvbj8][26]                         | Web, Recon   |           |
+| Easy       | [Petshop Pro][10]                                | Web          |           |
+| Hard       | [Model E1337 - Rolling Code Lock][11]            | Web, Math    |           |
+| Moderate   | [TempImage][12]                                  | Web          |           |
+| Easy       | [H1 Thermostat][13]                              | Android      |           |
+| Expert     | [Model E1337 V2 - Hardened Rolling Code Lock][14]| Math         |           |
+| Moderate   | [Intentional Exercise][15]                       | Android      |           |
+| Expert     | [Rend Asunder][16]                               | Native       |           |
+| Easy       | [BugDB v1][17]                                   | Web, GraphQL |           |
+| Easy       | [BugDB v2][18]                                   | Web, GraphQL |           |
+| Moderate   | [Oauthbreaker][19]                               | Android      |           |
+| Moderate   | [Mobile Webdev][20]                              | Android      |           |
+| Moderate   | [XSS Playground by zseano][21]                   | Web          |           |
+| Moderate   | [OSU CTF][22]                                    | Web          |           |
+| Moderate   | [Grayhatcon CTF][23]                             | Web          |           |
+| Moderate   | [RTFM][24]                                       | Web          |           |
+| Moderate   | [Hackyholidays CTF][25]                          | Web          |           |
+| Moderate   | [Y2FuIHlvdSByZWNvbj8][26]                        | Web, Recon   |           |
 
 [1]: ./a_little_something_to_get_you_started
 [2]: ./micro-cms_v1
